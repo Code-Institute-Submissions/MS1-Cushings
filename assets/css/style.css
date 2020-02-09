@@ -59,6 +59,9 @@ h2 {
     align-items: center;
     justify-content: center;
 }
+.rounded-circle {
+    padding: 10px;
+}
 
 /*---------------------------------------HISTORY---*/
 
