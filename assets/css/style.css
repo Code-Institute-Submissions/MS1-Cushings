@@ -13,7 +13,7 @@ h2 {
     color: yellow;
 }
 
-/*---------------------------------------HEADER---*/
+/*---------------------------------------HEADER-NAV--*/
 
 
 #menu li a {
@@ -84,6 +84,7 @@ h2 {
 /*---------------------------------------HISTORY---*/
 
 #history-title {
+    padding-top: 75px;
     padding-bottom: 25px;
 }
 
@@ -94,16 +95,31 @@ h2 {
 }
 /*---------------------------------------DIAGNOSIS---*/
 
+#diagnosis-title {
+    padding-top: 40px;
+}
+
 #diagram {
     margin-left: 10%;
 }
 
 /*---------------------------------------TREATMENT---*/
 
+#treatment-title {
+    padding-top: 75px;
+    padding-bottom: 25px;
+}
+
+#tynow {
+    margin-left: 10%;
+    padding-top: 15px;
+    padding-bottom: 100px;
+}
+
 /*---------------------------------------FOOTER---*/
 
 footer {
-    height: 75px;
+    height: 25px;
 }
 
 .social-links {
@@ -113,6 +129,6 @@ footer {
 .social-links i {
     font-size: 150%;
     color: yellow;
-    padding: 25px;
+   padding: 25px;
 }
 
