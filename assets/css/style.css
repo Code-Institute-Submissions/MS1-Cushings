@@ -70,3 +70,18 @@ h2 {
 /*---------------------------------------TREATMENT---*/
 
 /*---------------------------------------FOOTER---*/
+
+footer {
+    height: 75px;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links i {
+    font-size: 150%;
+    color: yellow;
+    padding: 25px;
+}
+
