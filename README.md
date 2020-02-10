@@ -54,8 +54,8 @@ Firefox
 
 # Deployment:
 I used the Gitpod IDE to write the code, linked with Github it gives easy access to commit and push files to the repository. 
-The deployed website is hosted on Github pages. 
-
+The deployed website is hosted on Github pages, this was achieved via the repo's settings into source then select publishing source.
+To run the code locally: in repo click clone/download button, change location to where wanted, enter 'git clone' and paste url.
 
 # Credits:
 Code institute readme template used.
