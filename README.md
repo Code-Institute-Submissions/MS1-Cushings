@@ -1,35 +1,70 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Milestone 1 project:
+Cushing Syndrome
+A personal account of living with a dog with an incurable illness.
 
-Welcome PT-70,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+# UX:
+This website is aimed at users who maybe think that their dog has this illness but they want some more information on what
+they should be looking out for, from someone who has witnessed it first hand.
+As the veterinary process can be very costly it's better to get as much information beforehand.
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# Wireframes:
+I sketched out a basic idea of how i wanted the site to look, with a simple one page scroll and links to three other 
+information pages. 
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Expose*,
+# Features:
+The main page has a hero image and bold callout message with nav links & hover bar to other pages at the top.
+When you scroll down you get some personal information & pictures plus the footer with social links.
+Each of the link pages share the same theme with pictures, navbar and social links in footer.
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+# Technologies Used:
+HTML: To create the main structure.
 
-A blue button should appear to click: *Expose*,
+CSS: To style.
 
-Another blue button should appear to click: *Open Browser*.
+Google Fonts: For Roboto & Bungee fonts.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+FontAwesome: For all icons.
 
-## Updates Since The Instructional Video
+Github Pages: For live website. 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+Bootstrap/JS/JQuery/Popper: For the Framework.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+# Testing:
+Google Chrome DEV Tools was used throughout the development of the site.
 
---------
+W3C Validation Services
 
-Happy coding!
+Devices:
+Iphone 5
+Iphone 6
+Ipad
+Macbook Air 13"
+Windows Desktop
+
+Browsers:
+Chrome
+Safari
+Firefox
+
+
+# Deployment:
+I used the Gitpod IDE to write the code, linked with Github it gives easy access to commit and push files to the repository. 
+The deployed website is hosted on Github pages. 
+
+
+# Credits:
+Code institute readme template used.
+
+
+# Media:
+The photos used in this site were my own.
+The diagram used in this site is from google images: VCA Hospitals Copyright Life Learn.
+
+
+# Acknowledgements:
+I received inspiration for this project from Code institute modules, Love Running & Whiskey drop.
