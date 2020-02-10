@@ -100,7 +100,7 @@ h2 {
 }
 
 #diagram {
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 /*---------------------------------------TREATMENT---*/
@@ -111,7 +111,7 @@ h2 {
 }
 
 #tynow {
-    margin-left: 10%;
+    margin-left: 0%;
     padding-top: 15px;
     padding-bottom: 100px;
 }
@@ -129,6 +129,6 @@ footer {
 .social-links i {
     font-size: 150%;
     color: yellow;
-   padding: 25px;
+   padding: 15px;
 }
 
